@@ -1,0 +1,23 @@
+{
+  "name": "webcrawller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vincent-MV/webcrawller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vincent-MV/webcrawller/issues"
+  },
+  "homepage": "https://github.com/Vincent-MV/webcrawller#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
