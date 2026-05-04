@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Vincent-MV/webcrawller#readme",
   "devDependencies": {
-    "jest": "^30.3.0"
+    "jest": "^30.3.0",
+    "jest-environment-jsdom": "^30.3.0"
+  },
+  "dependencies": {
+    "jsdom": "^19.0.0"
   }
 }
